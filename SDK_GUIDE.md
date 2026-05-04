@@ -1,7 +1,7 @@
 # Kognitiv Python SDK — Easy Integration for Institutions
 
 **Version:** v2.7.1  
-**Package:** `kognitiv`  
+**Package:** `kognitiv core`  
 **License:** Proprietary (Educational)
 
 The Kognitiv Python SDK provides a simple, Pythonic interface to the Kognitiv Core API. Perfect for educational institutions, data scientists, and developers.
@@ -29,7 +29,7 @@ pip install -e ".[dev]"
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Basic Usage
 
@@ -64,7 +64,7 @@ with Kognitiv(api_key="sk_edu_xxxxx") as client:
 
 ---
 
-## 💬 Chat Completions
+##  Chat Completions
 
 ### Simple Question
 
@@ -96,7 +96,7 @@ print()
 
 ---
 
-## 📊 Data Analysis
+##  Data Analysis
 
 ### Statistical Analysis
 
@@ -138,7 +138,7 @@ response = client.analyze(
 
 ---
 
-## 🔄 Workflows (Multi-Agent)
+## Workflows (Multi-Agent)
 
 ### Execute Complex Workflows
 
@@ -157,7 +157,7 @@ print(response.text)
 
 ---
 
-## 📈 Monitoring
+##  Monitoring
 
 ### Check API Quota
 
@@ -222,7 +222,7 @@ asyncio.run(main())
 
 ---
 
-## 🎯 Error Handling
+##  Error Handling
 
 ```python
 from kognitiv import (
@@ -252,7 +252,7 @@ except KognitivError as e:
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Custom Base URL (For Self-Hosted)
 
@@ -280,7 +280,7 @@ client = Kognitiv(api_key=api_key)
 
 ---
 
-## 📚 Real-World Examples
+## Real-World Examples
 
 ### Example 1: Academic Q&A System
 
@@ -406,7 +406,7 @@ if __name__ == "__main__":
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Unit Tests with SDK
 
@@ -441,7 +441,7 @@ def test_models(client):
 
 ---
 
-## 🚨 Troubleshooting
+## Troubleshooting
 
 ### Issue: "AuthenticationError: Invalid API key"
 
@@ -473,7 +473,7 @@ def test_models(client):
 
 ---
 
-## 📖 Full API Reference
+## Full API Reference
 
 ### Class: `Kognitiv`
 
@@ -515,7 +515,7 @@ Close HTTP client
 
 ---
 
-## 📞 Support
+##  Support
 
 - **Documentation:** https://docs.kognitiv.ai
 - **API Reference:** https://api.kognitiv.ai/docs
