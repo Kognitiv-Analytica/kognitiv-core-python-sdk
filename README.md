@@ -1,4 +1,4 @@
-# 🧠 Kognitiv Python SDK
+## Kognitiv Python SDK
 POWERED BY KOGNITIV ANALYTICA
 The official Python SDK for **Kognitiv Core API**, designed for educational institutions and AI-powered applications.
 
@@ -6,9 +6,9 @@ It provides a simple, fast, and scalable interface to integrate advanced AI capa
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 💬 Chat completions (like ChatGPT-style API)
+- 💬 Chat completions 
 - 📊 Data analysis (statistics, trends, forecasting)
 - 🔄 Multi-agent workflows
 - ⚡ Streaming responses
@@ -18,9 +18,9 @@ It provides a simple, fast, and scalable interface to integrate advanced AI capa
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### From source (GitHub)
 
 ```bash
-pip install git+https://github.com/aristotekujialphonse/kognitiv/kognitiv-core-sdk.git
+pip install git+https://github.com/aristotekujialphonse/kognitiv-core-sdk.git
