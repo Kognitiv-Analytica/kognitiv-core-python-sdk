@@ -23,4 +23,4 @@ It provides a simple, fast, and scalable interface to integrate advanced AI capa
 ### From source (GitHub)
 
 ```bash
-pip install git+https://github.com/aristotekujialphonse/kognitiv-core-sdk.git
+pip install git+https://github.com//Kognitiv-Analytica/kognitiv-core-python-sdk.git
