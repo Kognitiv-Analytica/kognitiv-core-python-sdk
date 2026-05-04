@@ -20,8 +20,8 @@ pip install kognitiv
 
 ```bash
 # Clone repo
-git clone https://github.com/kognitiv/kognitiv-core.git
-cd kognitiv-core
+git clone https://github.com//Kognitiv-Analytica/kognitiv-core-python-sdk.git
+cd kognitiv-core-python-sdk
 
 # Install with development dependencies
 pip install -e ".[dev]"
