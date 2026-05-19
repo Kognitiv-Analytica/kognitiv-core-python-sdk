@@ -22,8 +22,8 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/aristotekujialphonse/kognitiv-core-sdk",
     project_urls={
-        "Documentation": "https://docs.kognitiv.ai",
-        "API Reference": "https://api.kognitiv.ai/docs",
+        "Documentation": "https://www.kognitivcore.app",
+        "API Reference": "https://www.kognitivcore.app",
         "Source Code": "https://github.com/aristotekujialphonse/kognitiv-core-sdk",
         "Issue Tracker": "https://github.com/aristotekujialphonse/kognitiv-core-sdk/issues",
         "Changelog": "https://github.com/aristotekujialphonse/kognitiv-core-sdk/blob/main/CHANGELOG.md",
