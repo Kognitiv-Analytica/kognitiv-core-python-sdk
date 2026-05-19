@@ -106,7 +106,7 @@ class Kognitiv:
     def __init__(
         self,
         api_key: str,
-        base_url: str = "https://api.kognitiv.ai",
+        base_url: str = "https://api.kognitivcore.api",
         timeout: float = 30.0,
     ):
         if not api_key:
