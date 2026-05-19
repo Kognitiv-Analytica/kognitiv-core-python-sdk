@@ -8,13 +8,12 @@ It provides a simple, fast, and scalable interface to integrate advanced AI capa
 
 ##  Features
 
-- 💬 Chat completions 
-- 📊 Data analysis (statistics, trends, forecasting)
-- 🔄 Multi-agent workflows
-- ⚡ Streaming responses
-- 🔁 Async / Await support
-- 📈 Usage monitoring & quotas
-- 🛡️ Built-in error handling
+-  Chat completions 
+-  Data analysis (statistics, trends, forecasting)
+-  Multi-agent workflows
+-  Streaming responses
+-  Usage monitoring & quotas
+-  Built-in error handling
 
 ---
 
